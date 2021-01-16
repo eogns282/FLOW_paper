@@ -1,6 +1,10 @@
-# Flow-based generative model papers readling list
+# Flow-based generative model readling list
+- Berkeley CS294-158 Deep Unsupervised Learning [Lecture 3 Likelihood Models: Flow Models](https://www.youtube.com/watch?v=JBb5sSC0JoY&feature=youtu.be)
 - NICE: Non-linear Independent Components Estimation (ICLR 2015)
+- MADE: Masked Autoencoder for Distribution Estimation (ICML 2015)
 - Variational Inference with Normalizing Flows (ICML 2015)
+- Improved Variational Inference with Inverse Autoregressive Flow (NeurIPS 2016)
 - Density estimation using Real NVP (ICLR 2017)
 - Glow: Generative Flow with Invertible 1x1 Convolutions (preprint)
+- Sylvester Normalizing Flows for Variational Inference (UAI 2018)
 - FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models (ICLR 2019)
