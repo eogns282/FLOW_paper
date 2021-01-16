@@ -1,4 +1,4 @@
-# Flow-based generative model roadmap
+# Flow-based generative model study roadmap
 1. Berkeley CS294-158 Deep Unsupervised Learning Lecture 3 Likelihood Models: Flow Models [youtube](https://www.youtube.com/watch?v=JBb5sSC0JoY&feature=youtu.be)
 2. NICE: Non-linear Independent Components Estimation (ICLR 2015) [arxiv](https://arxiv.org/abs/1410.8516)
 3. MADE: Masked Autoencoder for Distribution Estimation (ICML 2015) [arXiv](https://arxiv.org/abs/1502.03509)
