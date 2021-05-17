@@ -8,4 +8,5 @@
 7. Glow: Generative Flow with Invertible 1x1 Convolutions (preprint) [arXiv](https://arxiv.org/abs/1807.03039)
 8. Sylvester Normalizing Flows for Variational Inference (UAI 2018) [arXiv](https://arxiv.org/abs/1803.05649)
 9. FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models (ICLR 2019) [arXiv](https://arxiv.org/abs/1810.01367)
-10. Normalizing Flows for Probabilistic Modeling and Inference (review article) [arXiv](https://arxiv.org/abs/1912.02762)
+10. Residual Flows for Invertible Generative Modeling (NeurIPS2020) [arXiv](https://arxiv.org/abs/1906.02735)
+11. Normalizing Flows for Probabilistic Modeling and Inference (review article) [arXiv](https://arxiv.org/abs/1912.02762)
